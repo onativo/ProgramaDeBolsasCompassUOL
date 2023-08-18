@@ -1,0 +1,234 @@
+{"index":{"_index":"my_index"}}
+{"BeginOffset":118,"EndOffset":124,"Score":0.7296685247356302,"Text":"couple","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":128,"EndOffset":137,"Score":0.48455295707225643,"Text":"questions","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":406,"EndOffset":409,"Score":0.9995715070757905,"Text":"Amy","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":870,"EndOffset":871,"Score":0.6884331913427326,"Text":"A","Type":"OTHER"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":991,"EndOffset":994,"Score":0.5986126719397573,"Text":"A I","Type":"OTHER"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":1147,"EndOffset":1151,"Score":0.9956144156082588,"Text":"2000","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":1167,"EndOffset":1174,"Score":0.8862694790164074,"Text":"Twitter","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":1197,"EndOffset":1202,"Score":0.6473636500426686,"Text":"South","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":1206,"EndOffset":1215,"Score":0.6200326278840638,"Text":"Southwest","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":1265,"EndOffset":1288,"Score":0.8499326796150675,"Text":"about a year and a half","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":1320,"EndOffset":1330,"Score":0.7088774756158722,"Text":"Department","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":1818,"EndOffset":1825,"Score":0.6539780052510659,"Text":"Tik Tok","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":1833,"EndOffset":1837,"Score":0.9978514680205731,"Text":"2017","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":1878,"EndOffset":1891,"Score":0.9471573300507599,"Text":"United States","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":1893,"EndOffset":1906,"Score":0.9733664585205317,"Text":"Japan Council","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":1958,"EndOffset":1960,"Score":0.9845102279505803,"Text":"US","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":1965,"EndOffset":1970,"Score":0.9619365411104447,"Text":"Japan","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":2019,"EndOffset":2026,"Score":0.8987124659688179,"Text":"Tik Tok","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":2381,"EndOffset":2402,"Score":0.8690694339086193,"Text":"two enormous failings","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":2511,"EndOffset":2514,"Score":0.9443615698953586,"Text":"one","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":2859,"EndOffset":2862,"Score":0.6477010364034467,"Text":"one","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":3192,"EndOffset":3195,"Score":0.4977707035227244,"Text":"Aws","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":3268,"EndOffset":3274,"Score":0.5645633945763117,"Text":"Alexis","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":3494,"EndOffset":3497,"Score":0.685668360126121,"Text":"one","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":3807,"EndOffset":3810,"Score":0.9498040921924801,"Text":"one","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":3945,"EndOffset":3954,"Score":0.8751323355243518,"Text":"one thing","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":4206,"EndOffset":4209,"Score":0.9516170491912979,"Text":"one","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":4283,"EndOffset":4287,"Score":0.7738175392020855,"Text":"GP T","Type":"TITLE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":4294,"EndOffset":4302,"Score":0.9088801167943752,"Text":"GP T two","Type":"TITLE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":4355,"EndOffset":4357,"Score":0.5239666419143155,"Text":"BT","Type":"TITLE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":4555,"EndOffset":4564,"Score":0.7774784203344977,"Text":"GP T four","Type":"TITLE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":4568,"EndOffset":4572,"Score":0.8646458053194004,"Text":"GP T","Type":"TITLE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":4799,"EndOffset":4802,"Score":0.9334050198250528,"Text":"one","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":4922,"EndOffset":4931,"Score":0.6860739211233874,"Text":"Wikipedia","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":5260,"EndOffset":5270,"Score":0.9342083492360008,"Text":"Portuguese","Type":"OTHER"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":5519,"EndOffset":5528,"Score":0.35374019159999404,"Text":"Instacart","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":5821,"EndOffset":5832,"Score":0.9467141205648619,"Text":"Chat GT two","Type":"TITLE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":5874,"EndOffset":5877,"Score":0.9541227397132459,"Text":"3.5","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":5886,"EndOffset":5890,"Score":0.9675859150289714,"Text":"four","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":6538,"EndOffset":6541,"Score":0.9441006426697569,"Text":"one","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":6547,"EndOffset":6550,"Score":0.4531602562597346,"Text":"one","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":6599,"EndOffset":6601,"Score":0.6911725666429133,"Text":"50","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":6602,"EndOffset":6604,"Score":0.4941406558637519,"Text":"50","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":6639,"EndOffset":6647,"Score":0.9694943115175739,"Text":"one word","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":6786,"EndOffset":6789,"Score":0.7882083244566612,"Text":"one","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":7137,"EndOffset":7144,"Score":0.9236278574964432,"Text":"English","Type":"OTHER"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":7208,"EndOffset":7213,"Score":0.9934099582228758,"Text":"Italy","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":7244,"EndOffset":7251,"Score":0.8586207498049073,"Text":"Nordics","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":7310,"EndOffset":7317,"Score":0.8621466084098682,"Text":"Nordics","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":7385,"EndOffset":7391,"Score":0.9856480402726218,"Text":"Nordic","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":7930,"EndOffset":7940,"Score":0.9950270528056331,"Text":"five years","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":7942,"EndOffset":7950,"Score":0.9931200560728697,"Text":"10 years","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":8099,"EndOffset":8109,"Score":0.9941573493454526,"Text":"five years","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":8111,"EndOffset":8119,"Score":0.9916763266271934,"Text":"10 years","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":8211,"EndOffset":8220,"Score":0.9915175595507111,"Text":"18 months","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":8224,"EndOffset":8230,"Score":0.9231665707540365,"Text":"a year","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":8234,"EndOffset":8243,"Score":0.992787130881513,"Text":"two years","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":8659,"EndOffset":8669,"Score":0.9967497363696497,"Text":"Jeff Bezos","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":8791,"EndOffset":8796,"Score":0.999096138397831,"Text":"Bezos","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":8803,"EndOffset":8812,"Score":0.9501881704743778,"Text":"Coachella","Type":"EVENT"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":8853,"EndOffset":8856,"Score":0.88558366311537,"Text":"one","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":9028,"EndOffset":9033,"Score":0.9988265709863065,"Text":"Bezos","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":9083,"EndOffset":9092,"Score":0.9774552554097254,"Text":"Coachella","Type":"EVENT"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":9850,"EndOffset":9862,"Score":0.9983193297986341,"Text":"five minutes","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":9913,"EndOffset":9916,"Score":0.9994993333781992,"Text":"Amy","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":9954,"EndOffset":9966,"Score":0.998433324496839,"Text":"Five minutes","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":10153,"EndOffset":10163,"Score":0.9937221163757115,"Text":"one minute","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":10214,"EndOffset":10224,"Score":0.992283186797592,"Text":"30 seconds","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":10240,"EndOffset":10246,"Score":0.7486978806631777,"Text":"second","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":10250,"EndOffset":10256,"Score":0.9950912152631627,"Text":"second","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":10871,"EndOffset":10876,"Score":0.9806870790804249,"Text":"today","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":11062,"EndOffset":11070,"Score":0.9934507052520357,"Text":"Amy Webb","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":11315,"EndOffset":11328,"Score":0.9990641060052737,"Text":"Michael Yensi","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":11334,"EndOffset":11344,"Score":0.993561133176934,"Text":"Edie Artur","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":11350,"EndOffset":11355,"Score":0.9837586056998128,"Text":"Adobe","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":11389,"EndOffset":11398,"Score":0.9356691190789391,"Text":"C O Jason","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":11404,"EndOffset":11411,"Score":0.9340715526966984,"Text":"Trigger","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":11529,"EndOffset":11545,"Score":0.9997118351420221,"Text":"Michael Lemanski","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":11551,"EndOffset":11560,"Score":0.9988826502972475,"Text":"Edgy Labs","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":11739,"EndOffset":11744,"Score":0.9783933958743167,"Text":"today","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":11790,"EndOffset":11794,"Score":0.9949180780400922,"Text":"2023","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":11975,"EndOffset":11980,"Score":0.9986908906145303,"Text":"Adobe","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":12331,"EndOffset":12337,"Score":0.9988704579799834,"Text":"Arthur","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":12604,"EndOffset":12617,"Score":0.9953363691036748,"Text":"Arthur Lacqua","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":12618,"EndOffset":12623,"Score":0.8074056506416623,"Text":"first","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":12629,"EndOffset":12634,"Score":0.9633817446100807,"Text":"Adobe","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":12734,"EndOffset":12741,"Score":0.9994160964166515,"Text":"Michael","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":12965,"EndOffset":12971,"Score":0.9994981424646395,"Text":"France","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":12991,"EndOffset":12997,"Score":0.9992235970978443,"Text":"Boston","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":13058,"EndOffset":13064,"Score":0.9988605859970893,"Text":"France","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":13110,"EndOffset":13116,"Score":0.7186070163391589,"Text":"French","Type":"OTHER"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":13481,"EndOffset":13486,"Score":0.9953059800598844,"Text":"Adobe","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":13507,"EndOffset":13511,"Score":0.998912564543072,"Text":"2013","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":13537,"EndOffset":13542,"Score":0.9953904233096519,"Text":"Adobe","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":13552,"EndOffset":13564,"Score":0.8026166848997524,"Text":"three clouds","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":13566,"EndOffset":13569,"Score":0.8620735121607633,"Text":"one","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":13639,"EndOffset":13648,"Score":0.9882125200561943,"Text":"Photoshop","Type":"TITLE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":13708,"EndOffset":13711,"Score":0.696760888336574,"Text":"PDF","Type":"TITLE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":13712,"EndOffset":13717,"Score":0.9348000796147012,"Text":"Adobe","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":13731,"EndOffset":13740,"Score":0.9672439660472117,"Text":"third one","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":13783,"EndOffset":13799,"Score":0.8784047058092129,"Text":"Experience Cloud","Type":"TITLE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":13812,"EndOffset":13815,"Score":0.5974902040231768,"Text":"Neo","Type":"TITLE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":13869,"EndOffset":13874,"Score":0.8391816978499237,"Text":"Adobe","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":13924,"EndOffset":13929,"Score":0.6618311472756256,"Text":"Adobe","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":13930,"EndOffset":13939,"Score":0.48359388286017047,"Text":"Analytics","Type":"TITLE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":13944,"EndOffset":13947,"Score":0.52994111581905,"Text":"Neo","Type":"TITLE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":13948,"EndOffset":13952,"Score":0.49924903839266127,"Text":"Lane","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":13965,"EndOffset":13970,"Score":0.9756886435646618,"Text":"Adobe","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":14324,"EndOffset":14327,"Score":0.5242832621585413,"Text":"one","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":14527,"EndOffset":14536,"Score":0.7640009148953629,"Text":"first one","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":14575,"EndOffset":14580,"Score":0.9615047733969345,"Text":"first","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":14685,"EndOffset":14690,"Score":0.8398446004282558,"Text":"first","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":15152,"EndOffset":15182,"Score":0.7351074436025296,"Text":"billions of transactional data","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":15325,"EndOffset":15329,"Score":0.7991342373340371,"Text":"silo","Type":"TITLE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":15521,"EndOffset":15525,"Score":0.6677889603625942,"Text":"silo","Type":"TITLE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":15622,"EndOffset":15627,"Score":0.9871704215983691,"Text":"first","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":16309,"EndOffset":16321,"Score":0.983194012282797,"Text":"second trend","Type":"QUANTITY"}

@@ -1,0 +1,362 @@
+{"index":{"_index":"my_index"}}
+{"BeginOffset":3,"EndOffset":10,"Score":0.9994588443930854,"Text":"Claudia","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":234,"EndOffset":237,"Score":0.9592142796707501,"Text":"one","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":334,"EndOffset":345,"Score":0.7261388765128104,"Text":"last decade","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":1247,"EndOffset":1252,"Score":0.9858855120337296,"Text":"today","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":1440,"EndOffset":1455,"Score":0.680475390295053,"Text":"past few months","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":1666,"EndOffset":1669,"Score":0.9935158485274663,"Text":"AWS","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":2906,"EndOffset":2911,"Score":0.9970063453485484,"Text":"today","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":3232,"EndOffset":3239,"Score":0.5926754313379334,"Text":"minutes","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":3649,"EndOffset":3659,"Score":0.9984437645356876,"Text":"Del Harris","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":3665,"EndOffset":3671,"Score":0.8537415196108428,"Text":"Conrad","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":3675,"EndOffset":3686,"Score":0.9973471053993692,"Text":"Terry Brown","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":3692,"EndOffset":3709,"Score":0.9857743462961204,"Text":"British Petroleum","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":3710,"EndOffset":3726,"Score":0.9993199597379423,"Text":"Patricia Manguel","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":3737,"EndOffset":3742,"Score":0.9097485914498943,"Text":"Diego","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":3748,"EndOffset":3752,"Score":0.47830527888330976,"Text":"pipe","Type":"TITLE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":3756,"EndOffset":3764,"Score":0.6898897892281117,"Text":"Leonardo","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":3770,"EndOffset":3774,"Score":0.44741171343832803,"Text":"gold","Type":"TITLE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":3785,"EndOffset":3793,"Score":0.9554435416482283,"Text":"Brittany","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":3799,"EndOffset":3808,"Score":0.40063124649317877,"Text":"Donaldson","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":3812,"EndOffset":3815,"Score":0.9727987469484333,"Text":"Ada","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":3822,"EndOffset":3828,"Score":0.9866409701324881,"Text":"Puerto","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":3933,"EndOffset":3939,"Score":0.9877035809311921,"Text":"Second","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":3944,"EndOffset":3958,"Score":0.9404988691373292,"Text":"second meeting","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":4553,"EndOffset":4558,"Score":0.9899194371341926,"Text":"today","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":4794,"EndOffset":4799,"Score":0.9940131283515771,"Text":"today","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":4804,"EndOffset":4809,"Score":0.9903123356245473,"Text":"Today","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":5137,"EndOffset":5142,"Score":0.9025594761743857,"Text":"first","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":5248,"EndOffset":5252,"Score":0.9973872202997592,"Text":"Luis","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":5258,"EndOffset":5263,"Score":0.7671725794787637,"Text":"first","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":5321,"EndOffset":5327,"Score":0.951722743629042,"Text":"Alexis","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":5521,"EndOffset":5539,"Score":0.9755208912691635,"Text":"Gillet proton Game","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":5551,"EndOffset":5557,"Score":0.8092422059131694,"Text":"Ticket","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":5685,"EndOffset":5693,"Score":0.9975640876365652,"Text":"78 years","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":5768,"EndOffset":5774,"Score":0.9981807249810563,"Text":"Amazon","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":6186,"EndOffset":6191,"Score":0.9985211340891337,"Text":"Diego","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":6252,"EndOffset":6258,"Score":0.9973049275920722,"Text":"Brazil","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":6299,"EndOffset":6307,"Score":0.9978669376278089,"Text":"30 years","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":6384,"EndOffset":6389,"Score":0.9885119157740411,"Text":"today","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":6517,"EndOffset":6519,"Score":0.9889440348497167,"Text":"12","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":7094,"EndOffset":7097,"Score":0.49815723871844964,"Text":"pay","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":7110,"EndOffset":7115,"Score":0.9846851937856852,"Text":"first","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":7146,"EndOffset":7160,"Score":0.786284542591934,"Text":"first engineer","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":7167,"EndOffset":7175,"Score":0.9620064988101408,"Text":"pick pay","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":7196,"EndOffset":7202,"Score":0.8238878749123573,"Text":"Martin","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":7242,"EndOffset":7245,"Score":0.9903030997530713,"Text":"one","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":7270,"EndOffset":7276,"Score":0.9988319228448598,"Text":"Brazil","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":7339,"EndOffset":7345,"Score":0.9990797175241422,"Text":"Brazil","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":7736,"EndOffset":7762,"Score":0.9924369287318328,"Text":"more than 70 million users","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":7764,"EndOffset":7792,"Score":0.9710852354187116,"Text":"more than 70 million clients","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":7796,"EndOffset":7802,"Score":0.998080844445153,"Text":"Brazil","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":7858,"EndOffset":7864,"Score":0.9948256920741454,"Text":"Brazil","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":7891,"EndOffset":7897,"Score":0.5185172867995121,"Text":"double","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":7917,"EndOffset":7923,"Score":0.998615277700657,"Text":"Brazil","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":8063,"EndOffset":8071,"Score":0.9972155357085337,"Text":"Leonardo","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":8123,"EndOffset":8127,"Score":0.9950706763580295,"Text":"Dale","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":8170,"EndOffset":8185,"Score":0.9600688908577689,"Text":"Leonardo Garcia","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":8221,"EndOffset":8237,"Score":0.7879275345439766,"Text":"last seven years","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":8294,"EndOffset":8298,"Score":0.9611140226650225,"Text":"each","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":9134,"EndOffset":9139,"Score":0.9992176459318082,"Text":"Patty","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":9178,"EndOffset":9183,"Score":0.9322919284288522,"Text":"First","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":9203,"EndOffset":9210,"Score":0.9939688425338117,"Text":"Compass","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":9236,"EndOffset":9243,"Score":0.4453841274166227,"Text":"Everton","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":9356,"EndOffset":9374,"Score":0.9896850149812354,"Text":"more than 30 years","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":9399,"EndOffset":9401,"Score":0.9572955925609263,"Text":"25","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":9628,"EndOffset":9634,"Score":0.9991102989037413,"Text":"Brazil","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":9887,"EndOffset":9904,"Score":0.9960846333684196,"Text":"more than 7, 1700","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":9937,"EndOffset":9958,"Score":0.8695091990752674,"Text":"more than 10 million,","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":9959,"EndOffset":9979,"Score":0.8632630705727612,"Text":"10 million customers","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":10000,"EndOffset":10018,"Score":0.8573527908181187,"Text":"two business units","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":10026,"EndOffset":10035,"Score":0.9028783939612274,"Text":"first one","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":10078,"EndOffset":10084,"Score":0.9963175267624722,"Text":"second","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":10139,"EndOffset":10148,"Score":0.9791306885432198,"Text":"two years","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":10226,"EndOffset":10238,"Score":0.754064256489156,"Text":"two Children","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":10240,"EndOffset":10246,"Score":0.9990721022164776,"Text":"Amanda","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":10251,"EndOffset":10258,"Score":0.99703976247301,"Text":"Gabriel","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":10379,"EndOffset":10384,"Score":0.9994255030275367,"Text":"Julio","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":10496,"EndOffset":10509,"Score":0.9991539504637402,"Text":"Julio Mariano","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":10584,"EndOffset":10586,"Score":0.6197286032149648,"Text":"of","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":10587,"EndOffset":10593,"Score":0.8008756686506546,"Text":"Brazil","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":10606,"EndOffset":10622,"Score":0.9796488362930346,"Text":"13 credit unions","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":10673,"EndOffset":10682,"Score":0.9513415899559312,"Text":"90 cities","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":10703,"EndOffset":10711,"Score":0.5354219300364409,"Text":"south of","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":10712,"EndOffset":10718,"Score":0.5782310064214218,"Text":"Brazil","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":10724,"EndOffset":10742,"Score":0.9925750621346269,"Text":"more than 30 years","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":10799,"EndOffset":10817,"Score":0.9906519186047288,"Text":"more than 20 years","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":10876,"EndOffset":10897,"Score":0.9954935789162472,"Text":"more than 1.5 million","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":10916,"EndOffset":10919,"Score":0.9900046054023706,"Text":"one","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":10934,"EndOffset":10940,"Score":0.532591835291439,"Text":"unions","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":10945,"EndOffset":10963,"Score":0.9945295995588179,"Text":"more than 70 years","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":10994,"EndOffset":11017,"Score":0.9952843038671153,"Text":"more than three billion","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":11055,"EndOffset":11076,"Score":0.9960960742490046,"Text":"more than 2.6 billion","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":11175,"EndOffset":11189,"Score":0.8096475463183258,"Text":"last two years","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":11224,"EndOffset":11240,"Score":0.8486023154559936,"Text":"next three years","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":11608,"EndOffset":11620,"Score":0.9884071813010393,"Text":"6000 members","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":11679,"EndOffset":11695,"Score":0.8845007149092121,"Text":"end of this year","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":11713,"EndOffset":11724,"Score":0.9976471286286618,"Text":"1.5 million","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":11736,"EndOffset":11750,"Score":0.8380971551184326,"Text":"next two years","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":12044,"EndOffset":12053,"Score":0.998394448590877,"Text":"Minnesota","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":12158,"EndOffset":12173,"Score":0.999525593673696,"Text":"Brett Hawkinson","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":12216,"EndOffset":12225,"Score":0.950291507797137,"Text":"Donaldson","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":12538,"EndOffset":12544,"Score":0.9679391665895469,"Text":"Acquis","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":12576,"EndOffset":12595,"Score":0.9870301047448691,"Text":"Solaris Pure Logics","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":12653,"EndOffset":12662,"Score":0.9971313747889766,"Text":"Donaldson","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":12667,"EndOffset":12681,"Score":0.7981292110743645,"Text":"about a decade","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":13002,"EndOffset":13015,"Score":0.7020920150206025,"Text":"last 10 years","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":13074,"EndOffset":13102,"Score":0.9806442187181263,"Text":"five enterprise technologies","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":13111,"EndOffset":13116,"Score":0.9968439128609009,"Text":"Adobe","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":13223,"EndOffset":13226,"Score":0.7873731301427561,"Text":"six","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":13261,"EndOffset":13273,"Score":0.9980972933454986,"Text":"$3.5 billion","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":13722,"EndOffset":13732,"Score":0.9364184188823556,"Text":"single day","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":13804,"EndOffset":13813,"Score":0.9366293361310846,"Text":"one thing","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":14166,"EndOffset":14175,"Score":0.9161295475903276,"Text":"Donaldson","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":14213,"EndOffset":14220,"Score":0.9948494066803242,"Text":"Britney","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":14230,"EndOffset":14241,"Score":0.9983630477711029,"Text":"Terry Brown","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":14565,"EndOffset":14568,"Score":0.9864693109877585,"Text":"B P","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":14597,"EndOffset":14608,"Score":0.9526674985699041,"Text":"over a year","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":14680,"EndOffset":14693,"Score":0.9978112282193493,"Text":"Washington DC","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":14778,"EndOffset":14781,"Score":0.9823322979910754,"Text":"one","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":15238,"EndOffset":15241,"Score":0.9889168209809854,"Text":"B P","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":15763,"EndOffset":15768,"Score":0.9635254862541536,"Text":"today","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":15809,"EndOffset":15826,"Score":0.9357268886493939,"Text":"each panel member","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":15973,"EndOffset":15986,"Score":0.9830174408012801,"Text":"each Panelist","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":16207,"EndOffset":16221,"Score":0.9894927838007574,"Text":"first question","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":16238,"EndOffset":16250,"Score":0.9633254774523429,"Text":"Lu Luis Luis","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":16333,"EndOffset":16338,"Score":0.9844345511307862,"Text":"first","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":16458,"EndOffset":16471,"Score":0.9591171492775665,"Text":"each Panelist","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":16622,"EndOffset":16627,"Score":0.8895300318106263,"Text":"Porto","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":16636,"EndOffset":16648,"Score":0.8352967428575383,"Text":"78 years old","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":16675,"EndOffset":16678,"Score":0.9983339694580993,"Text":"100","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":16683,"EndOffset":16704,"Score":0.9726878098099183,"Text":"38 different products","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":16706,"EndOffset":16724,"Score":0.9926687745423981,"Text":"10 different units","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":16729,"EndOffset":16759,"Score":0.9530161301783175,"Text":"three different business units","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":16805,"EndOffset":16821,"Score":0.8843829074441991,"Text":"12 th 12 million","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":16877,"EndOffset":16882,"Score":0.9703813377549778,"Text":"First","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":17205,"EndOffset":17211,"Score":0.9985210151723889,"Text":"Brazil","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":17225,"EndOffset":17234,"Score":0.7653220007619382,"Text":"Brazilian","Type":"OTHER"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":17269,"EndOffset":17282,"Score":0.9975746480455318,"Text":"Puerto Seguro","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":17374,"EndOffset":17389,"Score":0.7867648528960631,"Text":"9 80% of people","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":17396,"EndOffset":17400,"Score":0.9060659764463014,"Text":"2020","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":17401,"EndOffset":17411,"Score":0.8578298545539945,"Text":"New Puerto","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":17553,"EndOffset":17568,"Score":0.8133629640311634,"Text":"three verticals","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":17902,"EndOffset":17909,"Score":0.9739408439491735,"Text":"Compass","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":17988,"EndOffset":17997,"Score":0.673905662566969,"Text":"super app","Type":"TITLE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":18174,"EndOffset":18181,"Score":0.7511157460030213,"Text":"Compass","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":18481,"EndOffset":18494,"Score":0.8289006641227391,"Text":"last 78 years","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":18616,"EndOffset":18619,"Score":0.9987253721182339,"Text":"3rd","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":18621,"EndOffset":18629,"Score":0.97017952737725,"Text":"3rd year","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":18784,"EndOffset":18804,"Score":0.9752288053087874,"Text":"nine million clients","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":18808,"EndOffset":18819,"Score":0.9825667637004347,"Text":"three years","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":18834,"EndOffset":18836,"Score":0.9885984719781634,"Text":"13","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":18848,"EndOffset":18852,"Score":0.7489280293345696,"Text":"12.7","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":18875,"EndOffset":18878,"Score":0.9987761474122161,"Text":"100","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":18888,"EndOffset":18899,"Score":0.9960593982193544,"Text":"30 products","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":18923,"EndOffset":18927,"Score":0.9331522960372143,"Text":"2020","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":18935,"EndOffset":18958,"Score":0.8366103691561327,"Text":"1.2 business per client","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":18972,"EndOffset":18984,"Score":0.7568182595681766,"Text":"almost three","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":19079,"EndOffset":19083,"Score":0.9931085300786642,"Text":"Vito","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":19263,"EndOffset":19276,"Score":0.9970561322039798,"Text":"United States","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":19309,"EndOffset":19315,"Score":0.9987309607366641,"Text":"Brazil","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":19609,"EndOffset":19618,"Score":0.9951812721875961,"Text":"last week","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":19687,"EndOffset":19701,"Score":0.8915522151052865,"Text":"about 75 years","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":19715,"EndOffset":19719,"Score":0.6975598053536536,"Text":"Port","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":19757,"EndOffset":19771,"Score":0.9944607247162354,"Text":"first question","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":19843,"EndOffset":19861,"Score":0.9913895735205682,"Text":"more than 75 years","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":19988,"EndOffset":20001,"Score":0.6521859337781539,"Text":"last 30 years","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":20172,"EndOffset":20193,"Score":0.8063046469050531,"Text":"three different steps","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":20199,"EndOffset":20208,"Score":0.962110662548098,"Text":"first one","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":20321,"EndOffset":20338,"Score":0.9705955435451012,"Text":"around six months","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":20371,"EndOffset":20384,"Score":0.9925773696896867,"Text":"13,000 people","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":20390,"EndOffset":20404,"Score":0.9794333780299084,"Text":"35,000 brokers","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":20762,"EndOffset":20772,"Score":0.9852674051940383,"Text":"second one","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":21139,"EndOffset":21148,"Score":0.7071452023606191,"Text":"1.5 years","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":21362,"EndOffset":21370,"Score":0.4848806719098872,"Text":"question","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":21371,"EndOffset":21381,"Score":0.6717949830302624,"Text":"number two","Type":"OTHER"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":21408,"EndOffset":21413,"Score":0.9447783925519011,"Text":"Diego","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":21418,"EndOffset":21431,"Score":0.5534691594684817,"Text":"question four","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":21433,"EndOffset":21437,"Score":0.992842771243973,"Text":"Luis","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":21822,"EndOffset":21833,"Score":0.7754893071177877,"Text":"first shake","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":21852,"EndOffset":21857,"Score":0.9869350007259377,"Text":"first","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":22144,"EndOffset":22165,"Score":0.8254137416142177,"Text":"F one uh Rock and Rio","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":22605,"EndOffset":22618,"Score":0.9924908575507421,"Text":"12,000 people","Type":"QUANTITY"}

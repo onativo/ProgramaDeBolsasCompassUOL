@@ -1,0 +1,300 @@
+{"index":{"_index":"my_index"}}
+{"BeginOffset":22,"EndOffset":32,"Score":0.9782285491067375,"Text":"one minute","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":55,"EndOffset":65,"Score":0.9714468474576939,"Text":"one minute","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":159,"EndOffset":181,"Score":0.6723872438927476,"Text":"more of 6000 engineers","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":260,"EndOffset":273,"Score":0.8952006480767511,"Text":"100 customers","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":420,"EndOffset":428,"Score":0.6651434722277986,"Text":"whatsapp","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":513,"EndOffset":517,"Score":0.5847614825043767,"Text":"Mars","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":1108,"EndOffset":1122,"Score":0.9997477576550926,"Text":"Pablo Gonzalez","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":1126,"EndOffset":1140,"Score":0.9993802069442485,"Text":"Santiago Lopez","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":1151,"EndOffset":1163,"Score":0.9908903507037291,"Text":"two students","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":1167,"EndOffset":1181,"Score":0.9974983099691247,"Text":"Compas Academy","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":1219,"EndOffset":1226,"Score":0.9981961661093945,"Text":"Antonio","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":1235,"EndOffset":1257,"Score":0.9584983268359691,"Text":"University of Paso Fun","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":1267,"EndOffset":1278,"Score":0.9979124878645422,"Text":"Vanessa Taa","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":1310,"EndOffset":1321,"Score":0.8775886592828661,"Text":"first thing","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":1365,"EndOffset":1385,"Score":0.9939093706389995,"Text":"Antonio Antonio Tome","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":1393,"EndOffset":1397,"Score":0.6551597700074251,"Text":"Vice","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":1410,"EndOffset":1428,"Score":0.9805243631985453,"Text":"University of Paso","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":1482,"EndOffset":1499,"Score":0.9106178442203995,"Text":"1994 29 years ago","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":1551,"EndOffset":1574,"Score":0.9801450459547264,"Text":"University of Paso Fund","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":1798,"EndOffset":1813,"Score":0.9439729837428625,"Text":"first employees","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":1824,"EndOffset":1847,"Score":0.9921436065485753,"Text":"University of Poso Fund","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":1863,"EndOffset":1868,"Score":0.9928659207613175,"Text":"today","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":1883,"EndOffset":1894,"Score":0.9989121632452895,"Text":"Vanessa Tao","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":1999,"EndOffset":2004,"Score":0.9985390818454785,"Text":"Pablo","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":2008,"EndOffset":2016,"Score":0.9989028107573695,"Text":"Santiago","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":2041,"EndOffset":2047,"Score":0.7401070644484634,"Text":"Compas","Type":"TITLE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":2048,"EndOffset":2063,"Score":0.6076063856945917,"Text":"Academy Program","Type":"OTHER"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":2069,"EndOffset":2083,"Score":0.8503218351357695,"Text":"few months ago","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":2112,"EndOffset":2120,"Score":0.9991122028125418,"Text":"February","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":2150,"EndOffset":2158,"Score":0.9989143488789032,"Text":"Colombia","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":2159,"EndOffset":2168,"Score":0.9922222416866872,"Text":"yesterday","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":2187,"EndOffset":2193,"Score":0.9991544487942379,"Text":"Mexico","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":2403,"EndOffset":2408,"Score":0.9687552881331515,"Text":"Pablo","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":2504,"EndOffset":2509,"Score":0.9818592749941554,"Text":"First","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":2557,"EndOffset":2571,"Score":0.9994170201422925,"Text":"Pablo Gonzalez","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":2625,"EndOffset":2648,"Score":0.9909361736965825,"Text":"Technological Monterrey","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":2662,"EndOffset":2665,"Score":0.9029312680082316,"Text":"one","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":2705,"EndOffset":2711,"Score":0.9994775403500914,"Text":"Mexico","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":2746,"EndOffset":2749,"Score":0.7395298948730983,"Text":"E E","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":2776,"EndOffset":2785,"Score":0.9955851682411861,"Text":"coca-cola","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":2786,"EndOffset":2791,"Score":0.4980268463912359,"Text":"Femsa","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":2907,"EndOffset":2930,"Score":0.8782700081202238,"Text":"uh new Stage innovation","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":3417,"EndOffset":3423,"Score":0.9993239446663632,"Text":"Alexis","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":3466,"EndOffset":3469,"Score":0.9273816990083591,"Text":"one","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":3521,"EndOffset":3526,"Score":0.9471480474426794,"Text":"Latin","Type":"OTHER"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":3806,"EndOffset":3809,"Score":0.9725373189679455,"Text":"Aws","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":4017,"EndOffset":4022,"Score":0.9615729963875441,"Text":"first","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":4061,"EndOffset":4064,"Score":0.985419364424653,"Text":"Aws","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":4213,"EndOffset":4218,"Score":0.9310089960469781,"Text":"First","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":4405,"EndOffset":4411,"Score":0.9986199139256823,"Text":"Thiago","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":4413,"EndOffset":4422,"Score":0.9993105567088876,"Text":"Lili Macg","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":4424,"EndOffset":4431,"Score":0.9989220807275633,"Text":"Rafaela","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":4779,"EndOffset":4787,"Score":0.9892418897375681,"Text":"Santiago","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":4986,"EndOffset":4990,"Score":0.9838587547500657,"Text":"both","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":5094,"EndOffset":5099,"Score":0.9952182447773508,"Text":"Pablo","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":5215,"EndOffset":5221,"Score":0.9992948977544013,"Text":"Mexico","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":5256,"EndOffset":5280,"Score":0.9374792865855271,"Text":"more than 100 colleagues","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":5292,"EndOffset":5306,"Score":0.9973790446566198,"Text":"five countries","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":5466,"EndOffset":5481,"Score":0.9705519232114261,"Text":"100 40 students","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":5514,"EndOffset":5519,"Score":0.6713691201629065,"Text":"Latin","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":5530,"EndOffset":5536,"Score":0.9920572583318288,"Text":"Mexico","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":5545,"EndOffset":5553,"Score":0.9905334633438929,"Text":"Colombia","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":5565,"EndOffset":5574,"Score":0.9570736577551049,"Text":"Argentina","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":5575,"EndOffset":5582,"Score":0.8642685698404802,"Text":"Uruguay","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":5587,"EndOffset":5592,"Score":0.9737574659639265,"Text":"Chile","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":5832,"EndOffset":5840,"Score":0.584224273020954,"Text":"Santiago","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":5851,"EndOffset":5859,"Score":0.9986268091295468,"Text":"Colombia","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":6132,"EndOffset":6137,"Score":0.9996272523299132,"Text":"Pablo","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":6157,"EndOffset":6165,"Score":0.9867132712581064,"Text":"Santiago","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":6169,"EndOffset":6177,"Score":0.9474742231526316,"Text":"Santiago","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":6311,"EndOffset":6316,"Score":0.9857674570936316,"Text":"First","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":6343,"EndOffset":6348,"Score":0.9956176062399517,"Text":"today","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":6375,"EndOffset":6381,"Score":0.9964629790397632,"Text":"Alexis","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":6508,"EndOffset":6516,"Score":0.7616817111713422,"Text":"Santiago","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":6528,"EndOffset":6536,"Score":0.9990524695626268,"Text":"Colombia","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":6615,"EndOffset":6624,"Score":0.9881971541017435,"Text":"Alexander","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":6630,"EndOffset":6649,"Score":0.9790307320761275,"Text":"Humboldt University","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":6653,"EndOffset":6660,"Score":0.9988467895016423,"Text":"Armenia","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":6691,"EndOffset":6704,"Score":0.8186442193185123,"Text":"few weeks ago","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":6773,"EndOffset":6781,"Score":0.9950369193352949,"Text":"Atlantic","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":6852,"EndOffset":6855,"Score":0.9877463797599246,"Text":"Aws","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":6992,"EndOffset":6999,"Score":0.7522384977953415,"Text":"Academy","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":7116,"EndOffset":7121,"Score":0.9992943025355707,"Text":"Pablo","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":7146,"EndOffset":7154,"Score":0.9990665098282089,"Text":"Colombia","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":7383,"EndOffset":7386,"Score":0.9965681005126646,"Text":"Aws","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":7640,"EndOffset":7648,"Score":0.9971969243784157,"Text":"Colombia","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":7710,"EndOffset":7712,"Score":0.9992718042450145,"Text":"30","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":7716,"EndOffset":7725,"Score":0.9864770661730524,"Text":"40 people","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":7878,"EndOffset":7887,"Score":0.986209482641327,"Text":"this year","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":7903,"EndOffset":7930,"Score":0.9558840977831747,"Text":"more than 2000 scholarships","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":7977,"EndOffset":7980,"Score":0.9993459690596795,"Text":"Aws","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":8034,"EndOffset":8043,"Score":0.9839430991824458,"Text":"this year","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":8083,"EndOffset":8086,"Score":0.9992287151755137,"Text":"Aws","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":8329,"EndOffset":8356,"Score":0.9919505119536731,"Text":"University of Port Harcourt","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":8360,"EndOffset":8367,"Score":0.9985698677817183,"Text":"Nigeria","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":8376,"EndOffset":8388,"Score":0.9955060530932822,"Text":"last quarter","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":8390,"EndOffset":8399,"Score":0.9978207426821141,"Text":"last year","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":8464,"EndOffset":8477,"Score":0.9932263496543995,"Text":"first edition","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":8504,"EndOffset":8507,"Score":0.9993138256421706,"Text":"Aws","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":8511,"EndOffset":8517,"Score":0.9979520149956995,"Text":"Africa","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":8556,"EndOffset":8565,"Score":0.5525048727955477,"Text":"Vice Dean","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":8573,"EndOffset":8600,"Score":0.9235249963186282,"Text":"University of Port Harcourt","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":8797,"EndOffset":8802,"Score":0.9765122067374277,"Text":"First","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":9210,"EndOffset":9213,"Score":0.9586602593397732,"Text":"one","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":9251,"EndOffset":9258,"Score":0.9991623034136787,"Text":"Nigeria","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":9285,"EndOffset":9312,"Score":0.8985284630839113,"Text":"University of Port Harcourt","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":9326,"EndOffset":9339,"Score":0.8276148128951739,"Text":"few years ago","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":9889,"EndOffset":9892,"Score":0.985372947897269,"Text":"One","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":9941,"EndOffset":9945,"Score":0.9980403514589611,"Text":"Alex","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":10343,"EndOffset":10347,"Score":0.9993835913582055,"Text":"Alex","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":10855,"EndOffset":10863,"Score":0.7586426913830053,"Text":"Hamilton","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":11128,"EndOffset":11132,"Score":0.9977422780102845,"Text":"Alex","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":11256,"EndOffset":11264,"Score":0.9026542642773712,"Text":"Hamilton","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":11423,"EndOffset":11430,"Score":0.9981140961006076,"Text":"Leticia","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":11474,"EndOffset":11477,"Score":0.9692554078861642,"Text":"UNI","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":11478,"EndOffset":11490,"Score":0.9631676428634064,"Text":"more than 33","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":11613,"EndOffset":11624,"Score":0.9914423662458631,"Text":"33 students","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":11676,"EndOffset":11678,"Score":0.9947787389050106,"Text":"20","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":11729,"EndOffset":11731,"Score":0.9953359761804313,"Text":"20","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":11739,"EndOffset":11745,"Score":0.670838253288093,"Text":"end of","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":11750,"EndOffset":11754,"Score":0.5190425844885764,"Text":"week","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":11817,"EndOffset":11828,"Score":0.9803226161513227,"Text":"33 students","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":11935,"EndOffset":11946,"Score":0.9793746990814152,"Text":"second year","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":11964,"EndOffset":11974,"Score":0.9818311347991308,"Text":"third year","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":12029,"EndOffset":12041,"Score":0.9916321547323993,"Text":"three levels","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":13116,"EndOffset":13122,"Score":0.9990575858914796,"Text":"Daniel","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":13667,"EndOffset":13673,"Score":0.9964085330970913,"Text":"Alexis","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":13926,"EndOffset":13933,"Score":0.9682666714229172,"Text":"gen A I","Type":"OTHER"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":13941,"EndOffset":13942,"Score":0.6141496007861983,"Text":"A","Type":"OTHER"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":14038,"EndOffset":14045,"Score":0.9993007307781012,"Text":"Nigeria","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":14138,"EndOffset":14146,"Score":0.8640318677377227,"Text":"Stanford","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":14151,"EndOffset":14158,"Score":0.9022573706484268,"Text":"Harvard","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":14320,"EndOffset":14325,"Score":0.9889213005076036,"Text":"today","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":14545,"EndOffset":14557,"Score":0.8076143481596482,"Text":"20 more than","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":14558,"EndOffset":14570,"Score":0.8175366690998884,"Text":"20 years ago","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":14576,"EndOffset":14594,"Score":0.991624843831166,"Text":"University of Paso","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":14688,"EndOffset":14695,"Score":0.947229864020229,"Text":"Antonio","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":14920,"EndOffset":14944,"Score":0.9847175205890223,"Text":"University of the U P F.","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":15162,"EndOffset":15168,"Score":0.8275130273458303,"Text":"Alexis","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":15284,"EndOffset":15301,"Score":0.9963690749300506,"Text":"12 academic units","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":15554,"EndOffset":15575,"Score":0.7459459520852976,"Text":"hundreds of thousands","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":15596,"EndOffset":15600,"Score":0.9758814901508664,"Text":"both","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":15676,"EndOffset":15692,"Score":0.9255804703021009,"Text":"first university","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":15713,"EndOffset":15737,"Score":0.9251752096143351,"Text":"37 education institution","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":16046,"EndOffset":16052,"Score":0.9989066170900891,"Text":"Brazil","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":16277,"EndOffset":16287,"Score":0.9588340285039411,"Text":"U P F Park","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":16293,"EndOffset":16308,"Score":0.9646121784358259,"Text":"Technology Park","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":16354,"EndOffset":16359,"Score":0.9162740487528297,"Text":"U P F","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":16360,"EndOffset":16365,"Score":0.9765118647850912,"Text":"today","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":16381,"EndOffset":16390,"Score":0.987553699383312,"Text":"thousands","Type":"QUANTITY"}

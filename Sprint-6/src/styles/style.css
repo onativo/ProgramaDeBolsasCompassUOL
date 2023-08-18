@@ -1,0 +1,108 @@
+/* Define fontes */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap');
+
+
+/* Define as cores da paleta */
+:root {
+    --primary-color: #ec7d33;
+    --secondary-color: #FABB06;
+    --white-color: #FFF;
+    --black-color: #000;
+  }
+
+/* Define estilos gerais */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  background-color: #000000;
+  color: #ec7d33;
+  font-family: 'Montserrat', sans-serif;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Define estilos da barra de navegação */
+nav {
+  background-color: var(--secondary-color);
+  color: #fff;
+  padding: 1rem;
+}
+nav h2{
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.card {
+  margin: auto;
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 30%;
+}
+
+h2 {
+  font-size: 1.7rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  color: var(--white-color)
+}
+
+input[type="file"] {
+  font-size: 1rem;
+  margin-bottom: 1rem;
+  color: var(--white-color)
+}
+
+.btn {
+  padding: 0.5rem 1.5rem;
+  font-size: 1.2rem;
+  border-radius: 0.8rem;
+  border: none;
+  cursor: pointer;
+  background-color: #ec7d33;
+  color: #fff;
+  margin-left: 20%;
+  margin-top:5%;
+}
+
+.btn:hover {
+  background-color: #FABB06;
+  color: #fff;
+}
+
+.text-center {
+  text-align: center;
+}
+
+footer {
+  text-decoration: none;
+  margin-top: auto;
+  padding: 1rem;
+  text-align: center;
+  color: var(--white-color)
+}
+footer a{
+  font-size: 20px;
+  text-decoration: none;
+}
+footer a:hover{
+  color: #FABB06;
+}

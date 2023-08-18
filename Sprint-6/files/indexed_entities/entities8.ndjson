@@ -1,0 +1,398 @@
+{"index":{"_index":"my_index"}}
+{"BeginOffset":30,"EndOffset":45,"Score":0.9939384900934841,"Text":"second question","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":67,"EndOffset":76,"Score":0.9848144503488051,"Text":"Bill Ower","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":81,"EndOffset":87,"Score":0.9983296921721693,"Text":"George","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":93,"EndOffset":97,"Score":0.9968684343169056,"Text":"Bill","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":330,"EndOffset":335,"Score":0.9911139395635351,"Text":"first","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":427,"EndOffset":441,"Score":0.9992788744917842,"Text":"Bill Warshauer","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":493,"EndOffset":506,"Score":0.9807576509834364,"Text":"over 20 years","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":515,"EndOffset":528,"Score":0.7556862681207026,"Text":"North America","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":533,"EndOffset":551,"Score":0.9978735122370385,"Text":"Black Hawk Network","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":556,"EndOffset":561,"Score":0.6375675431724177,"Text":"B H N","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":669,"EndOffset":679,"Score":0.9746195478724629,"Text":"last month","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":722,"EndOffset":746,"Score":0.8446654028648586,"Text":"Target Home Depot Lowe's","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":860,"EndOffset":867,"Score":0.8782550495289053,"Text":"Chase B","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":873,"EndOffset":884,"Score":0.9710824659885738,"Text":"Wells Fargo","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":929,"EndOffset":938,"Score":0.9700774397199255,"Text":"past year","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":956,"EndOffset":960,"Score":0.9876175298614711,"Text":"both","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":982,"EndOffset":1000,"Score":0.9985126580614186,"Text":"Black Hawk Network","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":1002,"EndOffset":1020,"Score":0.862851445867475,"Text":"Black Hawk network","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":1165,"EndOffset":1179,"Score":0.7838808734441085,"Text":"Safeway Stores","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":1300,"EndOffset":1310,"Score":0.9979673770118181,"Text":"Black Hawk","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":1327,"EndOffset":1341,"Score":0.9306558773637879,"Text":"Safeway stores","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":1351,"EndOffset":1355,"Score":0.9967733169215521,"Text":"1999","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":1679,"EndOffset":1684,"Score":0.913875143034303,"Text":"three","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":1689,"EndOffset":1706,"Score":0.9270232269662406,"Text":"four times a week","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":1796,"EndOffset":1820,"Score":0.7636470986129134,"Text":"two shopping experiences","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":1826,"EndOffset":1835,"Score":0.9627591604744955,"Text":"one store","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":2164,"EndOffset":2174,"Score":0.9980955391108787,"Text":"Black Hawk","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":2337,"EndOffset":2350,"Score":0.9985721671281484,"Text":"North America","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":2497,"EndOffset":2502,"Score":0.8208707738821247,"Text":"B H N","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":2639,"EndOffset":2643,"Score":0.9596117186885791,"Text":"Bill","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":2692,"EndOffset":2701,"Score":0.9679326868909025,"Text":"Christmas","Type":"EVENT"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":2737,"EndOffset":2743,"Score":0.9965531833132422,"Text":"George","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":2848,"EndOffset":2860,"Score":0.998608192691171,"Text":"George Seder","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":2911,"EndOffset":2921,"Score":0.5402683076198155,"Text":"mastercard","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":2997,"EndOffset":2999,"Score":0.9938706277057658,"Text":"US","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":3037,"EndOffset":3047,"Score":0.9961321283747926,"Text":"Black Hawk","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":3051,"EndOffset":3054,"Score":0.9894234427623749,"Text":"one","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":3099,"EndOffset":3113,"Score":0.9810124985122388,"Text":"about 15 years","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":3288,"EndOffset":3290,"Score":0.998528146714822,"Text":"US","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":3292,"EndOffset":3298,"Score":0.9981420055536943,"Text":"Canada","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":3304,"EndOffset":3306,"Score":0.9961523613490976,"Text":"UK","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":3330,"EndOffset":3338,"Score":0.6116524218726256,"Text":"European","Type":"OTHER"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":3358,"EndOffset":3372,"Score":0.9890987315599052,"Text":"about 10 years","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":3413,"EndOffset":3426,"Score":0.9561656589344188,"Text":"both networks","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":3500,"EndOffset":3510,"Score":0.37234609663110924,"Text":"mastercard","Type":"COMMERCIAL_ITEM"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":3555,"EndOffset":3565,"Score":0.7487772742973234,"Text":"Mastercard","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":3597,"EndOffset":3601,"Score":0.9992453790051481,"Text":"2018","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":3883,"EndOffset":3887,"Score":0.9964509056945549,"Text":"Bill","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":3988,"EndOffset":3993,"Score":0.9829994890303748,"Text":"today","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":4640,"EndOffset":4650,"Score":0.932005216011819,"Text":"mastercard","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":4667,"EndOffset":4677,"Score":0.9705570439516131,"Text":"Mastercard","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":5071,"EndOffset":5081,"Score":0.9886923854920687,"Text":"Mastercard","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":5181,"EndOffset":5185,"Score":0.9991786079873665,"Text":"2014","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":5440,"EndOffset":5445,"Score":0.9419524044770105,"Text":"third","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":5464,"EndOffset":5474,"Score":0.996263451553604,"Text":"Mastercard","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":5787,"EndOffset":5797,"Score":0.4007725902017054,"Text":"mastercard","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":6009,"EndOffset":6016,"Score":0.9981595694810199,"Text":"10 year","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":6020,"EndOffset":6027,"Score":0.9982667195299726,"Text":"15 year","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":6192,"EndOffset":6198,"Score":0.9996054537779869,"Text":"George","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":6402,"EndOffset":6406,"Score":0.9701723690280288,"Text":"each","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":6488,"EndOffset":6493,"Score":0.9481348587344267,"Text":"today","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":6558,"EndOffset":6563,"Score":0.6083598861401508,"Text":"COVID","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":6617,"EndOffset":6623,"Score":0.8770507511894942,"Text":"Gallup","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":6652,"EndOffset":6657,"Score":0.993884051515657,"Text":"seven","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":6661,"EndOffset":6673,"Score":0.934042016487146,"Text":"10 employees","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":6674,"EndOffset":6679,"Score":0.9936702533689672,"Text":"today","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":6798,"EndOffset":6801,"Score":0.9976560212677524,"Text":"20%","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":6931,"EndOffset":6940,"Score":0.7316848866867118,"Text":"forth day","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":6990,"EndOffset":6995,"Score":0.984790156845067,"Text":"today","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":7136,"EndOffset":7139,"Score":0.8041057470553027,"Text":"One","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":7363,"EndOffset":7371,"Score":0.9904109012215448,"Text":"tomorrow","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":7379,"EndOffset":7387,"Score":0.9580096630069366,"Text":"next day","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":7659,"EndOffset":7669,"Score":0.8329719413265789,"Text":"Black Hawk","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":7677,"EndOffset":7690,"Score":0.8478652525972745,"Text":"first company","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":7720,"EndOffset":7729,"Score":0.9990918546479322,"Text":"Microsoft","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":8056,"EndOffset":8062,"Score":0.9448019106366083,"Text":"single","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":8322,"EndOffset":8327,"Score":0.9775917210035229,"Text":"first","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":8353,"EndOffset":8359,"Score":0.989328341246509,"Text":"iphone","Type":"COMMERCIAL_ITEM"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":8410,"EndOffset":8425,"Score":0.9770299506510931,"Text":"Lindsay Lindsay","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":8485,"EndOffset":8492,"Score":0.9986718673914542,"Text":"Lindsay","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":8542,"EndOffset":8549,"Score":0.9994959988238079,"Text":"Lindsay","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":8575,"EndOffset":8586,"Score":0.9986241536548928,"Text":"972814 6268","Type":"OTHER"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":8669,"EndOffset":8674,"Score":0.5855809277595808,"Text":"Apple","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":8704,"EndOffset":8711,"Score":0.9986051730600163,"Text":"Lindsay","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":8773,"EndOffset":8782,"Score":0.9475661600050066,"Text":"Starbucks","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":8859,"EndOffset":8862,"Score":0.9992301061971991,"Text":"$25","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":8916,"EndOffset":8925,"Score":0.561899909100894,"Text":"Apple Pay","Type":"TITLE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":9149,"EndOffset":9159,"Score":0.8828026194395232,"Text":"Black Hawk","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":9525,"EndOffset":9529,"Score":0.9975391535626602,"Text":"Bill","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":9550,"EndOffset":9556,"Score":0.9997509146364336,"Text":"George","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":9583,"EndOffset":9590,"Score":0.9959881965856053,"Text":"Lindsay","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":9694,"EndOffset":9709,"Score":0.9995170790310193,"Text":"Claudia Schafer","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":9717,"EndOffset":9731,"Score":0.9797353519752802,"Text":"Martin Claudia","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":9926,"EndOffset":9941,"Score":0.999494188156009,"Text":"Claudia Schafer","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":10007,"EndOffset":10017,"Score":0.9983147685745599,"Text":"$6 billion","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":10043,"EndOffset":10055,"Score":0.9978194831424321,"Text":"1600 centers","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":10063,"EndOffset":10076,"Score":0.9971765221774025,"Text":"United States","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":10088,"EndOffset":10097,"Score":0.9013372390403754,"Text":"44 states","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":10150,"EndOffset":10163,"Score":0.997105178411902,"Text":"United States","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":10201,"EndOffset":10217,"Score":0.6954848562006066,"Text":"couple of people","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":10319,"EndOffset":10332,"Score":0.9943269355902591,"Text":"United States","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":10594,"EndOffset":10608,"Score":0.9975081651787433,"Text":"Monday morning","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":10656,"EndOffset":10665,"Score":0.9833605356203261,"Text":"this week","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":11035,"EndOffset":11038,"Score":0.9866197341020408,"Text":"One","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":11051,"EndOffset":11061,"Score":0.9507390178209975,"Text":"mcdonald's","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":11093,"EndOffset":11099,"Score":0.999410976448436,"Text":"Sheila","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":11148,"EndOffset":11158,"Score":0.7546181062755312,"Text":"mcdonald's","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":11311,"EndOffset":11317,"Score":0.9991019691563924,"Text":"Brazil","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":11337,"EndOffset":11343,"Score":0.998670203004562,"Text":"Brazil","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":11381,"EndOffset":11391,"Score":0.9915921211177493,"Text":"TJ Fridays","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":11393,"EndOffset":11398,"Score":0.7831583530898473,"Text":"Chili","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":11798,"EndOffset":11804,"Score":0.9996609645659033,"Text":"Martin","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":11857,"EndOffset":11863,"Score":0.9990584187563027,"Text":"Martin","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":11966,"EndOffset":11969,"Score":0.4733501933681997,"Text":"pay","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":12003,"EndOffset":12005,"Score":0.9986394107197906,"Text":"LA","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":12007,"EndOffset":12017,"Score":0.7689293423858253,"Text":"about 70 a","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":12022,"EndOffset":12046,"Score":0.9312461738246112,"Text":"over 70 million accounts","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":12129,"EndOffset":12133,"Score":0.9925787869841131,"Text":"100%","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":12151,"EndOffset":12160,"Score":0.9443458509586867,"Text":"first one","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":12209,"EndOffset":12215,"Score":0.9993828769508158,"Text":"Brazil","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":12240,"EndOffset":12257,"Score":0.9679094090124803,"Text":"a year and a half","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":12291,"EndOffset":12298,"Score":0.984969616855641,"Text":"Netflix","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":12322,"EndOffset":12337,"Score":0.9734273126447157,"Text":"almost 10 years","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":12389,"EndOffset":12392,"Score":0.8462011785303788,"Text":"one","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":12506,"EndOffset":12517,"Score":0.9810599855962036,"Text":"first lines","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":12529,"EndOffset":12543,"Score":0.9323153762070487,"Text":"nine years old","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":12661,"EndOffset":12665,"Score":0.981638098018042,"Text":"Pipa","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":12856,"EndOffset":12859,"Score":0.757506836670703,"Text":"one","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":13058,"EndOffset":13074,"Score":0.9807502559205326,"Text":"two main tenants","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":13266,"EndOffset":13269,"Score":0.9920312132189536,"Text":"AWS","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":13381,"EndOffset":13403,"Score":0.8865115424462425,"Text":"thousands of engineers","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":13527,"EndOffset":13534,"Score":0.9932257630799931,"Text":"Netflix","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":13618,"EndOffset":13625,"Score":0.9960889598156555,"Text":"Netflix","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":13673,"EndOffset":13677,"Score":0.999009042446602,"Text":"2011","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":14377,"EndOffset":14382,"Score":0.8461529490257328,"Text":"three","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":14873,"EndOffset":14876,"Score":0.9398778353283137,"Text":"two","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":15246,"EndOffset":15266,"Score":0.857521841345019,"Text":"last couple of years","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":15535,"EndOffset":15538,"Score":0.9031183955205971,"Text":"One","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":15546,"EndOffset":15552,"Score":0.5057692915351526,"Text":"things","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":15588,"EndOffset":15603,"Score":0.9901765693098529,"Text":"1500 microchips","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":15650,"EndOffset":15660,"Score":0.9950574424844699,"Text":"3000 chips","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":18149,"EndOffset":18152,"Score":0.9390599019627853,"Text":"one","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":18198,"EndOffset":18201,"Score":0.9450603489567826,"Text":"one","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":18205,"EndOffset":18208,"Score":0.8380709960289743,"Text":"one","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":18460,"EndOffset":18472,"Score":0.9840789070229163,"Text":"three things","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":18604,"EndOffset":18611,"Score":0.9997530593477284,"Text":"Claudia","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":18799,"EndOffset":18822,"Score":0.8834419948237776,"Text":"two different customers","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":19467,"EndOffset":19472,"Score":0.9815951378510153,"Text":"twice","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":19809,"EndOffset":19831,"Score":0.891610209220061,"Text":"thousands of engineers","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":20276,"EndOffset":20300,"Score":0.9608756707477484,"Text":"two additional questions","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":20402,"EndOffset":20405,"Score":0.6077164113036229,"Text":"one","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":20426,"EndOffset":20435,"Score":0.9727193202854855,"Text":"Bill Jeff","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":20440,"EndOffset":20446,"Score":0.9965044094118682,"Text":"Sheila","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":20837,"EndOffset":20855,"Score":0.9983434337190706,"Text":"Black Hawk Network","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":20979,"EndOffset":20984,"Score":0.9495808873305142,"Text":"COVID","Type":"OTHER"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":20985,"EndOffset":20990,"Score":0.9330219313693836,"Text":"first","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":21097,"EndOffset":21107,"Score":0.9382447530793585,"Text":"California","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":21198,"EndOffset":21203,"Score":0.9857425520734813,"Text":"COVID","Type":"OTHER"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":21311,"EndOffset":21323,"Score":0.9236181958314101,"Text":"Californians","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":21459,"EndOffset":21467,"Score":0.9282572664978113,"Text":"Saturday","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":21479,"EndOffset":21485,"Score":0.9948792574702439,"Text":"Sunday","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":21519,"EndOffset":21525,"Score":0.7739942714654147,"Text":"George","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":21530,"EndOffset":21540,"Score":0.9646270420008786,"Text":"mastercard","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":21545,"EndOffset":21563,"Score":0.9982208497238577,"Text":"Black Hawk Network","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":21593,"EndOffset":21602,"Score":0.9786525850063083,"Text":"two weeks","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":21782,"EndOffset":21792,"Score":0.9661671357554127,"Text":"California","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":21920,"EndOffset":21932,"Score":0.9976736279405477,"Text":"$100 million","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":22006,"EndOffset":22013,"Score":0.4614983061848459,"Text":"C A VAC","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":22047,"EndOffset":22057,"Score":0.8953867942947028,"Text":"two months","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":22150,"EndOffset":22153,"Score":0.968667812814128,"Text":"45%","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":22300,"EndOffset":22311,"Score":0.8292128068393219,"Text":"60 some odd","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":22312,"EndOffset":22319,"Score":0.7168901241035647,"Text":"million","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":22362,"EndOffset":22365,"Score":0.998734985521672,"Text":"$50","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":22635,"EndOffset":22639,"Score":0.9990569909303069,"Text":"Jeff","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":22863,"EndOffset":22868,"Score":0.7804389412726285,"Text":"Agile","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":22873,"EndOffset":22878,"Score":0.5412715407583121,"Text":"Scrum","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":23039,"EndOffset":23042,"Score":0.91088542163988,"Text":"one","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":23214,"EndOffset":23234,"Score":0.8570585027299376,"Text":"last couple of years","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":23272,"EndOffset":23287,"Score":0.8479769477876075,"Text":"Twitter dot com","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":23445,"EndOffset":23448,"Score":0.9200145461821218,"Text":"one","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":24096,"EndOffset":24099,"Score":0.8420351900904638,"Text":"one","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":24107,"EndOffset":24112,"Score":0.7017560599122229,"Text":"agile","Type":"TITLE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":24171,"EndOffset":24177,"Score":0.9994929025200124,"Text":"Sheila","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":25130,"EndOffset":25143,"Score":0.7494132430119319,"Text":"single person","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":25609,"EndOffset":25622,"Score":0.9744681958593201,"Text":"George Martin","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":25627,"EndOffset":25634,"Score":0.9994022844532005,"Text":"Claudia","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":25654,"EndOffset":25669,"Score":0.9600956774971702,"Text":"Claudia Claudia","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":25689,"EndOffset":25692,"Score":0.994366141271176,"Text":"Jen","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":25770,"EndOffset":25773,"Score":0.9991828924581933,"Text":"Jen","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":26018,"EndOffset":26024,"Score":0.79450892610916,"Text":"double","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":26029,"EndOffset":26035,"Score":0.8799099226523287,"Text":"triple","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":26100,"EndOffset":26103,"Score":0.7211952365388984,"Text":"A I","Type":"OTHER"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":26560,"EndOffset":26566,"Score":0.998963239920685,"Text":"George","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":26583,"EndOffset":26593,"Score":0.5734614599756417,"Text":"Mastercard","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":26610,"EndOffset":26611,"Score":0.765888679207151,"Text":"I","Type":"COMMERCIAL_ITEM"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":26735,"EndOffset":26752,"Score":0.9969911145391128,"Text":"American Airlines","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":26800,"EndOffset":26803,"Score":0.5823818887116508,"Text":"A I","Type":"COMMERCIAL_ITEM"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":26886,"EndOffset":26896,"Score":0.8178071007912904,"Text":"Black Hawk","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":26912,"EndOffset":26915,"Score":0.5829979562734455,"Text":"A I","Type":"COMMERCIAL_ITEM"}

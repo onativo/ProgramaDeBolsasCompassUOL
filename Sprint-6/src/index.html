@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Indexação de Áudio</title>
+    <script src="https://unpkg.com/vue@1.0.28/dist/vue.js"></script>
+    <script src="https://unpkg.com/axios@0.2.1/dist/axios.min.js"></script>
+    <link rel="stylesheet" href="styles/style.css">
+  </head>
+  <body>
+    
+    <div id="app">
+      <nav class="navbar">
+        <div class="container">
+        <h2 class="title">Sistema para indexação de mensagens de áudio </h2>
+        <a class="navbar-brand" href="#">
+          <img src="/files/img/compass-uol.svg" alt="Logo" height="20" class="d-inline-block align-text-right">
+        </a>
+      </div>
+      </nav>
+
+      <div v-if="!image" class="container w-50 p-5">
+        <div class="card">
+          <div class="card-body">
+            <h2>Insira um aúdio em formato .MP3:</h2>
+            <label for="audio"/>
+            <input type="file" @change="onFileChange" accept="audio/mpeg" name="audio"/>
+            <div v-else>
+              <!-- <img :src="image" /> -->
+              <div v-else class="pt-4">
+                <button
+                  v-if="!uploadURL"
+                  @click="uploadAudio"
+                  class="btn btn-secondary"
+                >
+                  Enviar áudio
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <h2 v-if="uploadURL" class="text-center">Sucesso ao enviar arquivo para o bucket.</h2>
+    </div>
+
+    <footer>
+          <p>© 2023 - Todos os direitos reservados à
+            <a href="https://github.com/crobertocamilo">Carlos Roberto</a>,
+            <a href="https://github.com/ml-brunelli">Márcio Lima</a>,
+            <a href="https://github.com/onativo">Marcos Carvalho</a>,
+            <a href="https://github.com/odharamaggi">O'Dhara Maggi</a>.
+        </p>
+    </footer>
+
+    <script>
+      //upload script
+      const MAX_AUDIO_SIZE = 100000000;
+
+      /* url do endpoint */
+      const API_ENDPOINT =
+        "https://j7nijc3lj5.execute-api.us-east-1.amazonaws.com/uploads"; // e.g. https://ab1234ab123.execute-api.us-east-1.amazonaws.com/uploads
+
+      new Vue({
+        el: "#app",
+        data: {
+          audio: "",
+          uploadURL: "",
+        },
+        methods: {
+          onFileChange(e) {
+            let files = e.target.files || e.dataTransfer.files;
+            if (!files.length) return;
+            this.createAudio(files[0]);
+          },
+          createAudio(file) {
+            let reader = new FileReader();
+            reader.onload = (e) => {
+              console.log(
+                "length: ",
+                e.target.result.includes("data:audio/mpeg")
+              );
+              if (!e.target.result.includes("data:audio/mpeg")) {
+                return alert("Desculpe, só aceitamos arquivos em MP3.");
+              }
+              if (e.target.result.length > MAX_AUDIO_SIZE) {
+                return alert("Arquivo de audio muito grande.");
+              }
+              this.audio = e.target.result;
+            };
+            reader.readAsDataURL(file);
+          },
+          uploadAudio: async function (e) {
+            console.log("Upload clicked");
+            // Get the presigned URL
+            const response = await axios({
+              method: "GET",
+              url: API_ENDPOINT
+            });
+            console.log("Response: ", response);
+            console.log("Uploading: ", this.audio);
+            let binary = atob(this.audio.split(",")[1]);
+            let array = [];
+            for (var i = 0; i < binary.length; i++) {
+              array.push(binary.charCodeAt(i));
+            }
+            let blobData = new Blob([new Uint8Array(array)], {
+              type: "audio/mpeg",
+            });
+            console.log("...enviando para: ", response.uploadURL);
+            const result = await fetch(response.uploadURL, {
+              method: "PUT",
+              body: blobData,
+            });
+            console.log("Resultado: ", result);
+            // Final URL for the user doesn't need the query string params
+            this.uploadURL = response.uploadURL.split("?")[0];
+          },
+        },
+      });
+    </script>
+  </body>
+</html>

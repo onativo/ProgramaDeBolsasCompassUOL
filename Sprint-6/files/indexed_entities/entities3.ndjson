@@ -1,0 +1,276 @@
+{"index":{"_index":"my_index"}}
+{"BeginOffset":383,"EndOffset":389,"Score":0.9986396485814945,"Text":"Boston","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":1059,"EndOffset":1064,"Score":0.8310410115090174,"Text":"28 29","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":1068,"EndOffset":1072,"Score":0.9695507099405207,"Text":"2013","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":1527,"EndOffset":1531,"Score":0.6184544030376373,"Text":"A I.","Type":"OTHER"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":1555,"EndOffset":1559,"Score":0.9987589046467191,"Text":"2017","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":1581,"EndOffset":1587,"Score":0.9935536216409016,"Text":"Google","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":3135,"EndOffset":3144,"Score":0.9963011338116303,"Text":"last week","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":3367,"EndOffset":3370,"Score":0.9757607100702732,"Text":"one","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":4288,"EndOffset":4301,"Score":0.9761825845761389,"Text":"first version","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":4305,"EndOffset":4314,"Score":0.6840037216375824,"Text":"Chat GP T","Type":"TITLE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":4368,"EndOffset":4384,"Score":0.9807474405752284,"Text":"about 7000 books","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":4435,"EndOffset":4449,"Score":0.9985005032629511,"Text":"second version","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":4465,"EndOffset":4475,"Score":0.9731389207338225,"Text":"both books","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":4507,"EndOffset":4516,"Score":0.9051887810541833,"Text":"Wikipedia","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":4521,"EndOffset":4527,"Score":0.8888422689659574,"Text":"Reddit","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":4566,"EndOffset":4582,"Score":0.9988249559149968,"Text":"February of 2020","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":4610,"EndOffset":4615,"Score":0.8479235798858177,"Text":"COVID","Type":"EVENT"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":4647,"EndOffset":4655,"Score":0.7593569617290026,"Text":"pandemic","Type":"EVENT"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":4842,"EndOffset":4855,"Score":0.9993057901529232,"Text":"February 2020","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":4866,"EndOffset":4868,"Score":0.4566813078600293,"Text":"GP","Type":"COMMERCIAL_ITEM"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":4869,"EndOffset":4874,"Score":0.5577126967866749,"Text":"T two","Type":"TITLE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":4997,"EndOffset":5008,"Score":0.9963429453237218,"Text":"three years","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":5062,"EndOffset":5070,"Score":0.84592137221784,"Text":"Interpol","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":5077,"EndOffset":5078,"Score":0.43200796988359896,"Text":"I","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":5096,"EndOffset":5100,"Score":0.7600299147538568,"Text":"GP T","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":5189,"EndOffset":5190,"Score":0.5618029418329992,"Text":"T","Type":"TITLE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":5203,"EndOffset":5212,"Score":0.7335788837415009,"Text":"GP T four","Type":"TITLE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":5307,"EndOffset":5322,"Score":0.6812872195359553,"Text":"lots of players","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":5390,"EndOffset":5407,"Score":0.7057519210268025,"Text":"zero transparency","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":5453,"EndOffset":5462,"Score":0.9927557861088199,"Text":"last week","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":5463,"EndOffset":5467,"Score":0.9986875615475865,"Text":"Greg","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":5472,"EndOffset":5480,"Score":0.9986212216751938,"Text":"Brockman","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":5488,"EndOffset":5491,"Score":0.8967039427948326,"Text":"TED","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":6119,"EndOffset":6125,"Score":0.990384825542112,"Text":"Brazil","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":6141,"EndOffset":6147,"Score":0.9902312060409353,"Text":"Brazil","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":6196,"EndOffset":6202,"Score":0.9979682801272997,"Text":"Brazil","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":6317,"EndOffset":6325,"Score":0.9975564729361869,"Text":"Emirates","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":6331,"EndOffset":6350,"Score":0.8565134943316771,"Text":"couple of weeks ago","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":6354,"EndOffset":6363,"Score":0.9989354760400214,"Text":"Abu Dhabi","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":6439,"EndOffset":6453,"Score":0.9988374556055877,"Text":"Silicon Valley","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":6457,"EndOffset":6460,"Score":0.5553051678161168,"Text":"one","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":6643,"EndOffset":6648,"Score":0.9955292250727255,"Text":"today","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":6708,"EndOffset":6712,"Score":0.7665153433539221,"Text":"GP T","Type":"TITLE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":6864,"EndOffset":6867,"Score":0.8810762445964919,"Text":"one","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":6904,"EndOffset":6913,"Score":0.9946979955854142,"Text":"last week","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":7304,"EndOffset":7312,"Score":0.9922358557735499,"Text":"tomorrow","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":7360,"EndOffset":7369,"Score":0.8904057518945292,"Text":"GP T four","Type":"TITLE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":7939,"EndOffset":7948,"Score":0.32421922148619275,"Text":"Instacart","Type":"TITLE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":8100,"EndOffset":8106,"Score":0.9994733724242545,"Text":"Boston","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":8107,"EndOffset":8112,"Score":0.9909224009435604,"Text":"today","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":8136,"EndOffset":8143,"Score":0.996243574115048,"Text":"tonight","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":8192,"EndOffset":8200,"Score":0.9971390791392606,"Text":"tomorrow","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":8354,"EndOffset":8359,"Score":0.9935825287159388,"Text":"C P G","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":8825,"EndOffset":8828,"Score":0.9810076283711805,"Text":"Aws","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":8833,"EndOffset":8839,"Score":0.9967048625875221,"Text":"Amazon","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":8918,"EndOffset":8921,"Score":0.9531067520330679,"Text":"Aws","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":8978,"EndOffset":8990,"Score":0.933586770142348,"Text":"Hugging Face","Type":"TITLE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":9097,"EndOffset":9106,"Score":0.9990368829513556,"Text":"Microsoft","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":9191,"EndOffset":9207,"Score":0.8027241669322914,"Text":"a ton of players","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":9217,"EndOffset":9222,"Score":0.9546194875384861,"Text":"Azure","Type":"TITLE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":9295,"EndOffset":9301,"Score":0.9984541032102311,"Text":"Google","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":9306,"EndOffset":9309,"Score":0.9877690604137311,"Text":"two","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":9325,"EndOffset":9328,"Score":0.9518577353267731,"Text":"one","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":9340,"EndOffset":9349,"Score":0.641517618683846,"Text":"Deep Mind","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":9371,"EndOffset":9377,"Score":0.9553381066279546,"Text":"Google","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":9378,"EndOffset":9383,"Score":0.3914591627294729,"Text":"Brain","Type":"TITLE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":9405,"EndOffset":9410,"Score":0.9824448149312198,"Text":"today","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":9413,"EndOffset":9422,"Score":0.951128485994552,"Text":"Wednesday","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":9485,"EndOffset":9492,"Score":0.854059740078407,"Text":"one big","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":9901,"EndOffset":9907,"Score":0.9890270522408307,"Text":"Google","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":10118,"EndOffset":10124,"Score":0.9941163197675482,"Text":"Google","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":10125,"EndOffset":10131,"Score":0.9944760081558842,"Text":"Amazon","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":10147,"EndOffset":10175,"Score":0.9093491655838527,"Text":"second largest search engine","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":10237,"EndOffset":10247,"Score":0.8009820432553956,"Text":"single day","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":10272,"EndOffset":10276,"Score":0.9823290776601319,"Text":"Bing","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":10280,"EndOffset":10284,"Score":0.9834729202863682,"Text":"Bing","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":10362,"EndOffset":10371,"Score":0.9732398399946928,"Text":"this year","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":10386,"EndOffset":10395,"Score":0.9962887964776727,"Text":"Elon Musk","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":10401,"EndOffset":10410,"Score":0.9918486355284294,"Text":"Elon Musk","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":11209,"EndOffset":11229,"Score":0.8167808894095965,"Text":"a couple of days ago","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":11267,"EndOffset":11268,"Score":0.4569636971445558,"Text":"T","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":11596,"EndOffset":11602,"Score":0.5181676513939993,"Text":"L L MS","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":11982,"EndOffset":11988,"Score":0.986874856742111,"Text":"Python","Type":"TITLE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":12306,"EndOffset":12310,"Score":0.47587307633383963,"Text":"GP T","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":12364,"EndOffset":12374,"Score":0.9963444598008794,"Text":"Alex Jones","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":12387,"EndOffset":12400,"Score":0.9939431893056783,"Text":"United States","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":12453,"EndOffset":12469,"Score":0.9881724844953443,"Text":"Parkland Florida","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":12602,"EndOffset":12612,"Score":0.9848429732232917,"Text":"Alex Jones","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":13507,"EndOffset":13510,"Score":0.6986967196171465,"Text":"one","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":13596,"EndOffset":13602,"Score":0.9939154932363395,"Text":"Google","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":13634,"EndOffset":13640,"Score":0.9840886695750295,"Text":"Google","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":13715,"EndOffset":13720,"Score":0.8739706422899874,"Text":"Atari","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":14083,"EndOffset":14091,"Score":0.9474785522371975,"Text":"one time","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":14181,"EndOffset":14189,"Score":0.9903414466146974,"Text":"tomorrow","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":14496,"EndOffset":14500,"Score":0.9981456873265222,"Text":"2023","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":15880,"EndOffset":15908,"Score":0.7409140999804955,"Text":"thousands of patient records","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":16012,"EndOffset":16032,"Score":0.8990097225351825,"Text":"thousands of records","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":16725,"EndOffset":16742,"Score":0.9122652899727571,"Text":"second and a half","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":16850,"EndOffset":16873,"Score":0.9178532082442713,"Text":"two different data sets","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":17097,"EndOffset":17120,"Score":0.832427024083847,"Text":"two synthetic data sets","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":17507,"EndOffset":17516,"Score":0.9982335579075664,"Text":"last year","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":17540,"EndOffset":17554,"Score":0.6879795068967786,"Text":"United Kingdom","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":17561,"EndOffset":17575,"Score":0.6672497883766078,"Text":"a ton of money","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":17611,"EndOffset":17627,"Score":0.9739743487991368,"Text":"more than a year","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":17784,"EndOffset":17795,"Score":0.9971317265155895,"Text":"2.4 seconds","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":17846,"EndOffset":17862,"Score":0.9873984881118391,"Text":"Saturday morning","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":18394,"EndOffset":18404,"Score":0.9502596437856373,"Text":"Dallenbach","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":18437,"EndOffset":18442,"Score":0.6561043610367419,"Text":"three","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":18974,"EndOffset":18977,"Score":0.9983317119767541,"Text":"two","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":19030,"EndOffset":19038,"Score":0.9956471411632042,"Text":"15 years","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":19242,"EndOffset":19245,"Score":0.5793297501058001,"Text":"A I","Type":"OTHER"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":19336,"EndOffset":19337,"Score":0.493621994467942,"Text":"I","Type":"OTHER"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":19434,"EndOffset":19437,"Score":0.6155814382844557,"Text":"A I","Type":"OTHER"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":19627,"EndOffset":19645,"Score":0.8163122509623046,"Text":"each family member","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":20733,"EndOffset":20737,"Score":0.977221941179587,"Text":"2023","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":20780,"EndOffset":20784,"Score":0.9863518691282163,"Text":"2038","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":20855,"EndOffset":20865,"Score":0.9896409479716618,"Text":"one option","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":21193,"EndOffset":21194,"Score":0.6459646507779033,"Text":"I","Type":"OTHER"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":21258,"EndOffset":21269,"Score":0.9872755374730081,"Text":"late 2020 s","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":21304,"EndOffset":21321,"Score":0.8563041557812546,"Text":"tons of companies","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":21333,"EndOffset":21354,"Score":0.9503676467026972,"Text":"tons of human workers","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":21481,"EndOffset":21492,"Score":0.9915442035004121,"Text":"late 2020 s","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":22185,"EndOffset":22189,"Score":0.9915980333319729,"Text":"2023","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":22392,"EndOffset":22398,"Score":0.9968039941092867,"Text":"Amazon","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":22947,"EndOffset":22953,"Score":0.9988390588171515,"Text":"Boston","Type":"LOCATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":23067,"EndOffset":23071,"Score":0.9896473259829071,"Text":"2023","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":23148,"EndOffset":23155,"Score":0.9794274430240963,"Text":"English","Type":"OTHER"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":23439,"EndOffset":23443,"Score":0.9817518337884964,"Text":"2023","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":23633,"EndOffset":23635,"Score":0.9580149663536733,"Text":"50","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":23636,"EndOffset":23638,"Score":0.5822156214258744,"Text":"50","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":24775,"EndOffset":24778,"Score":0.9520880617689715,"Text":"one","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":25081,"EndOffset":25097,"Score":0.7027767264920142,"Text":"44 key takeaways","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":25099,"EndOffset":25104,"Score":0.9822012921055832,"Text":"First","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":25587,"EndOffset":25592,"Score":0.9934921976313523,"Text":"Three","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":25676,"EndOffset":25679,"Score":0.9880543374404964,"Text":"two","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":25756,"EndOffset":25761,"Score":0.7253320378174201,"Text":"Three","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":25861,"EndOffset":25872,"Score":0.6334212348087092,"Text":"number four","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":25993,"EndOffset":26004,"Score":0.9872079709297382,"Text":"four things","Type":"QUANTITY"}

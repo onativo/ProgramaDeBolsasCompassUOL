@@ -1,0 +1,40 @@
+{"index":{"_index":"my_index"}}
+{"BeginOffset":887,"EndOffset":892,"Score":0.9995497109322029,"Text":"Terry","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":1167,"EndOffset":1170,"Score":0.4557650393523405,"Text":"B P","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":1171,"EndOffset":1181,"Score":0.9594144558921023,"Text":"a year ago","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":1647,"EndOffset":1650,"Score":0.563313650537274,"Text":"one","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":1948,"EndOffset":1953,"Score":0.9628148330757638,"Text":"first","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":2386,"EndOffset":2389,"Score":0.9985030680894978,"Text":"two","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":2399,"EndOffset":2404,"Score":0.9993732329954942,"Text":"Terry","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":2732,"EndOffset":2735,"Score":0.9826505864637333,"Text":"IRS","Type":"ORGANIZATION"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":2877,"EndOffset":2890,"Score":0.7767730451550314,"Text":"next 20 years","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":3320,"EndOffset":3325,"Score":0.7814845235559569,"Text":"first","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":3404,"EndOffset":3411,"Score":0.9987087256221919,"Text":"Britney","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":3486,"EndOffset":3491,"Score":0.999109227905749,"Text":"Terry","Type":"PERSON"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":3626,"EndOffset":3628,"Score":0.9887315401651365,"Text":"11","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":4073,"EndOffset":4076,"Score":0.9719131886328402,"Text":"one","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":4145,"EndOffset":4154,"Score":0.986113071382665,"Text":"last year","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":4266,"EndOffset":4269,"Score":0.9703017578459704,"Text":"one","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":4578,"EndOffset":4586,"Score":0.6233571272959869,"Text":"a minute","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":4857,"EndOffset":4877,"Score":0.9226818493205792,"Text":"more than 30 minutes","Type":"QUANTITY"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":4950,"EndOffset":4952,"Score":0.9693929550190352,"Text":"10","Type":"DATE"}
+{"index":{"_index":"my_index"}}
+{"BeginOffset":4954,"EndOffset":4959,"Score":0.9250994458548035,"Text":"10 45","Type":"DATE"}
