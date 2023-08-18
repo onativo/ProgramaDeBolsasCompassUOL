@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "handlebars": "^4.7.7",
+    "path": "^0.12.7"
+  },
+  "name": "sprint-3-pb-aws-univesp",
+  "description": "Avaliação da terceira sprint do programa de bolsas Compass UOL para formação em machine learning para AWS.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Compass-pb-aws-2023-Univesp/sprint-3-pb-aws-univesp.git"
+  },
+  "author": "vini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Compass-pb-aws-2023-Univesp/sprint-3-pb-aws-univesp/issues"
+  },
+  "homepage": "https://github.com/Compass-pb-aws-2023-Univesp/sprint-3-pb-aws-univesp#readme"
+}
