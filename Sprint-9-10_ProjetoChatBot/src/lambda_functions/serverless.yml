@@ -1,0 +1,94 @@
+service: projetoFinalGrupo2
+frameworkVersion: '3'
+
+provider:
+  name: aws
+  runtime: python3.9
+  region: us-east-1
+  iamRoleStatements:
+    - Effect: "Allow"
+      Action:
+        - "s3-object-lambda:*"
+        - "lambda:PublishLayerVersion"
+        - "lambda:InvokeFunction"
+        - "logs:CreateLogGroup"
+        - "logs:PutLogEvents"
+        - "logs:TagResource"
+        - "rekognition:DetectText"
+        - "s3:PutObject"
+        - "s3:GetObject"
+        - "transcribe:StartTranscriptionJob"
+        - "transcribe:GetTranscriptionJob"
+        - "polly:GetSpeechSynthesisTask"
+        - "polly:SynthesizeSpeech"
+        - "lex:RecognizeText"
+        - "lex:PostText"
+        - "comprehend:DetectDominantLanguage"
+        - "translate:TranslateText"
+      Resource: "*"
+
+# This creates a public S3 bucket from the deploy
+resources:
+  Resources:
+    #bucket para entrada de imagens
+    ImagensInput:
+      Type: AWS::S3::Bucket
+      Properties:
+        BucketName: !Sub "sprint9-images-input-${AWS::AccountId}"
+        AccessControl: PublicReadWrite
+    #bucket para saída de transcrições
+    TextsOutput:
+      Type: AWS::S3::Bucket
+      Properties:
+        BucketName: !Sub "sprint9-detected-texts-${AWS::AccountId}"
+        PublicAccessBlockConfiguration:
+          BlockPublicAcls: true
+        OwnershipControls:
+          Rules:
+            - ObjectOwnership: ObjectWriter
+    #bucket para saída de audio
+    AudioOutput:
+      Type: AWS::S3::Bucket
+      Properties:
+        BucketName: !Sub "sprint9-synthesized-audios-${AWS::AccountId}"
+        PublicAccessBlockConfiguration:
+          BlockPublicAcls: true
+        OwnershipControls:
+          Rules:
+            - ObjectOwnership: ObjectWriter
+    #bucket para entrada de audio
+    AudioInput:
+      Type: AWS::S3::Bucket
+      Properties:
+        BucketName: !Sub "sprint9-audio-input-${AWS::AccountId}"
+        PublicAccessBlockConfiguration:
+          BlockPublicAcls: true
+        OwnershipControls:
+          Rules:
+            - ObjectOwnership: ObjectWriter
+
+functions:
+  manager:
+    handler: handler.manager
+    events:
+      - httpApi:
+          path: /manager
+          method: POST
+  transcribeAudioFunction:
+    handler: services/transcribe.transcribe_audio
+    events:
+      - httpApi:
+          path: /transcribeAudio
+          method: POST
+  synthesizeAudioFunction:
+    handler: services/synthesize_speech.synthesize_speech
+    events:
+      - httpApi:
+          path: /synthesizeSpeech
+          method: POST
+  rekognitionFunction:
+    handler: services/textRekognition.img2txt
+    events:
+      - httpApi:
+          path: /rekognition
+          method: POST
