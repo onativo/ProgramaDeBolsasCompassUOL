@@ -1,7 +1,7 @@
 ## Avaliação Sprints 9 e 10 - Projeto Final - Programa de Bolsas Compass UOL / AWS e Univesp
 
 <div align="center">
-  <img src="./assets/avatar.jpeg" width="300px">
+  <img src="./assets/telegram_imgs/avatar.jpeg" width="300px">
   <h3 style="font-size:32px">Cessi</h3>
   <h4 style="font-size:20px; margin-top: -15px;">Assistente de Acessibilidade</h4>
 </div>
